@@ -7,7 +7,7 @@ author_profile: true
 
 ## Journal Papers
 
-- <u>Daihong Zhou</u>, Yijian Wu, Xin Peng, Jiyue Zhang, Ziliang Li: Uncovering Change Propagation Channels by Evolution History Mining, Journal of Systems and Software (JSS) (CCF B, SCI, Q2, IF: 3.5)
+- <u>Daihong Zhou</u>, Yijian Wu, Xin Peng, Jiyue Zhang, Ziliang Li: Uncovering Change Propagation Channels by Evolution History Mining, Journal of Systems and Software (JSS 2024.2) (CCF B, SCI, Q2, IF: 3.5)
 
 
 ## Conference Papers
