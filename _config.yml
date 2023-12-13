@@ -113,7 +113,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "dhzhou17@fudan.edu.cn"
+      email: "dhzhou17@fudan.edu.cn"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://zhoudaihong.github.io"
