@@ -10,9 +10,8 @@ classes: wide
 
 #### Journal Papers
 
-  - <u>Daihong Zhou</u>, Yijian Wu, Xin Peng, Jiyue Zhang, Ziliang Li: Uncovering Change Propagation Channels by Evolution History Mining, Journal of Systems and Software (JSS 2024) (CCF B, SCI, Q2, IF: 3.5)
-
-
+  - <font size="2"> <u>Daihong Zhou</u>, Yijian Wu, Xin Peng, Jiyue Zhang, Ziliang Li: Uncovering Change Propagation Channels by Evolution History Mining, Journal of Systems and Software (JSS 2024) (CCF B, SCI, Q2, IF: 3.5) </font>
+  
 #### Conference Papers
 
 - <u>Daihong Zhou</u>, Yijian Wu, Lu Xiao, Yuanfang Cai, Xin Peng, Jinrong Fan, Lu Huang, Heng Chen: Understanding Evolutionary Coupling by Fine-grained Co-change Relationship Analysis, The 27th International Conference on Program Comprehension (ICPC 2019) (CCF B, EI)
