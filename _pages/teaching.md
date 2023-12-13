@@ -3,6 +3,7 @@ layout: archive
 title: "Teaching"
 permalink: /teaching/
 author_profile: true
+classes: wide
 ---
 
 - Summer 2019: Teaching Assistant, Software Design, Undergraduate-level, Fudan University, China 
