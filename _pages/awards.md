@@ -3,6 +3,7 @@ layout: archive
 title: "Awards"
 permalink: /awards/
 author_profile: true
+classes: wide
 ---
 
 - 2019: Excellent Academic Scholarship, Fudan University
