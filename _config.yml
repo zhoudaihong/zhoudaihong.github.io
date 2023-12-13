@@ -20,7 +20,7 @@ title                    : "Dr. Zhou's Home Page."
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Daihong Zhou"
-description              : &description "Fudan University, Software Engineering Laboratory, Doctor. Research fields: Software Data Mining, Program Analysis, Code LLM, and Technical Debt."
+description              : &description "Doctor, Software Engineering Laboratory, Fudan University. Research fields: Software Data Mining, Program Analysis, Code LLM, and Technical Debt."
 url                      : "https://zhoudaihong.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zhoudaihong/zhoudaihong.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Daihong Zhou"
   avatar           : "/assets/images/bio-photo.png"
-  bio              : "Fudan University, Software Engineering Laboratory, Doctor."
+  bio              : "Doctor, Software Engineering Laboratory, Fudan University."
   location         : "Shang Hai, China"
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=WvV5pH0AAAAJ"
   orcid            : "https://orcid.org/0000-0003-3538-8415"
