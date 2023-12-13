@@ -1,10 +1,12 @@
 ---
 layout: archive
-title: "Awards"
+
 permalink: /awards/
 author_profile: true
 classes: wide
 ---
+
+### Awards
 
 - 2019: Excellent Academic Scholarship, Fudan University
 - 2018: CCF Prototype Competition Award (2nd Prize)
