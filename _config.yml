@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Dr. Zhou's Home Page."
-description              : "Doctor, Software Engineering Laboratory, Fudan University. Research fields: Software Data Mining, Program Analysis, Code LLM, and Technical Debt."
+description              : "Lecturer, School of Computer Science and Information Engineering, Shanghai Institute of Technology, China."
 repository               : "zhoudaihong/zhoudaihong.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/zhoudaihong"
+  github           : "zhoudaihong"
   google_plus      :
   keybase          :
   instagram        :
