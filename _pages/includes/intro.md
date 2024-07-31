@@ -1,4 +1,4 @@
-Dr. Daihong Zhou (周代宏) is presently serving as an lecturer at the School of Computer Science and Information Engineering, Shanghai Institute of Technology, China. Before joining Shanghai Institute of Technology, he received his Ph.D. degrees in Software Engineering from Fudan University in 2024, supervised by Prof. Xin Peng and Prof. Yijian Wu.
+Dr. Daihong Zhou (周代宏) is presently serving as an lecturer at the School of Computer Science and Information Engineering, Shanghai Institute of Technology, China. Prior to that, he studied in the Software Engineering Lab at Fudan University. In January 2024, he received his Ph.D. in Software Engineering from Fudan University, under the supervision of Professor [Xin Peng](http://cspengxin.github.io) and Professor Yijian Wu.
 
 Dr. Zhou’s research focuses on software data analysis and mining, program analysis, code LLM, and technical debt. His primary interest lies in leveraging advanced data mining techniques, such as large language models (LLMs) and knowledge graphs (KGs), to solve multi-dimensional data analysis problems in software engineering, thereby assisting software development and maintenance.
 
