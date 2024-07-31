@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Dr. Zhou's Home Page."
-description              : "Lecturer, School of Computer Science and Information Engineering, Shanghai Institute of Technology, China."
+description              : ""
 repository               : "zhoudaihong/zhoudaihong.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Daihong Zhou"
   avatar           : "images/bio-photo.png"
-  bio              : "Doctor, Software Engineering Laboratory, Fudan University."
+  bio              : "Lecturer, School of Computer Science and Information Engineering, Shanghai Institute of Technology, China."
   location         : "Shang Hai, China"
   employer         :
   pubmed           : 
