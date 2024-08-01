@@ -3,6 +3,6 @@
 - *2024.01*: 🎉 I received my Ph.D from Fudan University.
 - *2023.11*: One paper titled "Revealing Code Change Propagation Channels by Evolution History Mining" got accepted in
             <a href="https://www.sciencedirect.com/science/article/pii/S0164121223003072"
-               >JSS 2023</a>.
+               >JSS</a>.
             <a href="http://zhoudaihong.github.io/files/2024_JSS_CPC.pdf"
                class="btn btn--success btn--small">Paper</a>

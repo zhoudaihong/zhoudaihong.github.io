@@ -1,11 +1,11 @@
 
 # 📝 Publications 
 
-## Journal Papers
+### Journal Papers
 
   - <u>Daihong Zhou</u>, Yijian Wu, Xin Peng, Jiyue Zhang, Ziliang Li: Uncovering Change Propagation Channels by Evolution History Mining, Journal of Systems and Software (JSS 2024) (CCF B, SCI, Q2, IF: 3.5)
 
-## Conference Papers
+### Conference Papers
 
   - <u>Daihong Zhou</u>, Yijian Wu, Lu Xiao, Yuanfang Cai, Xin Peng, Jinrong Fan, Lu Huang, Heng Chen: Understanding Evolutionary Coupling by Fine-grained Co-change Relationship Analysis, The 27th International Conference on Program Comprehension (ICPC 2019) (CCF B, EI)
   - Kaifeng Huang, Bihuan Chen, Xin Peng, <u>Daihong Zhou</u>, Ying Wang, Yang Liu, Wenyun Zhao: ClDiff: Generating Concise Linked Code Differences, The 33rd International Conference on Automated Software Engineering (ASE 2018) (CCF A, **ACM SIGSOFT Distinguished Paper Award**, EI)
