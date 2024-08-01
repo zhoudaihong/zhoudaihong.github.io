@@ -2,6 +2,6 @@ Dr. Daihong Zhou (周代宏) is currently serving as a lecturer at the [School o
 
 Dr. Zhou’s research focuses on software data analysis and mining, program analysis, code LLM, and technical debt. His primary interest lies in leveraging advanced data mining techniques, such as large language models (LLMs) and knowledge graphs (KGs), to solve multi-dimensional data analysis problems in software engineering, thereby assisting software development and maintenance.
 
-<div style="border: 2px solid red; text-align:justify; text-justify:inter-word; padding: 3px 10px 0px 10px;">
+<div style="border: 2px solid red; text-align:justify; text-justify:inter-word; padding: 5px 10px 0px 10px;">
     <p><strong>Collaboration Invitation:</strong> Dr. Zhou is open to collaborating with professors, researchers, and industry professionals who share similar research interests or have relevant projects. If you are interested in exploring opportunities for teamwork, please don't hesitate to reach out via <a href="dhzhou17@fudan.edu.cn">email</a> for potential collaborations.</p>
 </div>
