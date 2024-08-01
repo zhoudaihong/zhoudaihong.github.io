@@ -1,5 +1,5 @@
 <div style="text-align:justify; text-justify:inter-word;">
-    Daihong Zhou (周代宏) is currently serving as a lecturer at the [School of Computer Science and Information Engineering](https://cs.sit.edu.cn) in [Shanghai Institute of Technology](https://www.sit.edu.cn), China. Prior to that, he studied in the [Software Engineering Lab](http://www.se.fudan.edu.cn) at the [School of Computer Science Fudan University](https://cs.fudan.edu.cn). In January 2024, he received his Ph.D. in Software Engineering from Fudan University, under the guidance of Professor [Xin Peng](http://cspengxin.github.io) and Professor Yijian Wu.
+    Daihong Zhou (周代宏) is currently serving as a lecturer at the <a href="https://cs.sit.edu.cn">School of Computer Science and Information Engineering</a> in [Shanghai Institute of Technology](https://www.sit.edu.cn), China. Prior to that, he studied in the [Software Engineering Lab](http://www.se.fudan.edu.cn) at the [School of Computer Science Fudan University](https://cs.fudan.edu.cn). In January 2024, he received his Ph.D. in Software Engineering from Fudan University, under the guidance of Professor [Xin Peng](http://cspengxin.github.io) and Professor Yijian Wu.
 </div>
 
 <div style="text-align:justify; text-justify:inter-word;">
