@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Dr. Daihong Zhou"
   avatar           : "images/bio-photo.png"
-  bio              : "<p style="text-align:justify; text-justify:inter-word;">Lecturer, School of Computer Science and Information Engineering, Shanghai Institute of Technology.</p>"
-  location         : "Shang Hai, China"
+  bio              : "Lecturer, School of Computer Science and Information Engineering, Shanghai Institute of Technology, China"
+  location         : "Shang Hai"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=WvV5pH0AAAAJ"
