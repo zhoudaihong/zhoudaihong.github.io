@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Dr. Zhou's Home Page."
+title                    : "Daihong Zhou - Shanghai Institute of Technology"
 description              : ""
 repository               : "zhoudaihong/zhoudaihong.github.io"
 google_scholar_stats_use_cdn : true
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Daihong Zhou"
+  name             : "Dr. Daihong Zhou"
   avatar           : "images/bio-photo.png"
   bio              : "Lecturer, School of Computer Science and Information Engineering, Shanghai Institute of Technology, China."
   location         : "Shang Hai, China"
