@@ -19,11 +19,11 @@ google_site_verification :  # get google_site_verification from https://search.g
 bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
 baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
-# Site Author
+# Site Author 
 author:
   name             : "Dr. Daihong Zhou"
   avatar           : "images/bio-photo.png"
-  bio              : "Lecturer, School of Computer Science and Information Engineering, Shanghai Institute of Technology."
+  bio              : "<p style="text-align:justify; text-justify:inter-word;">Lecturer, School of Computer Science and Information Engineering, Shanghai Institute of Technology.</p>"
   location         : "Shang Hai, China"
   employer         :
   pubmed           : 
