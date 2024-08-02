@@ -4,7 +4,7 @@
 
 
 <div style="text-align:justify; text-justify:inter-word; margin:10px">
-    Dr. Zhou’s research focuses on software data analysis and mining, program analysis, code LLM, and technical debt. His primary interest lies in leveraging advanced data mining techniques, such as large language models (LLMs) and knowledge graphs (KGs), to solve multi-dimensional data analysis problems in software engineering, thereby assisting software development and maintenance.
+    Dr. Zhou’s research focuses on <u>software data analysis and mining</u>, <u>program analysis</u>, <u>code LLM</u>, and <u>technical debt</u>. His primary interest lies in leveraging advanced data mining techniques, such as large language models (LLMs) and knowledge graphs (KGs), to solve multi-dimensional data analysis problems in software engineering, thereby assisting software development and maintenance.
 </div>
 
 
