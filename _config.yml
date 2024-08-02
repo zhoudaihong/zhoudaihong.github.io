@@ -24,7 +24,7 @@ author:
   name             : "Dr. Daihong Zhou"
   avatar           : "images/bio-pho.png"
   bio              : "Lecturer, School of Computer Science and Information Engineering, Shanghai Institute of Technology, China"
-  location         : "Shang Hai"
+  location         : # "Shang Hai"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=WvV5pH0AAAAJ"
