@@ -9,5 +9,5 @@
 
 
 <div style="border: 2px solid red; text-align:justify; text-justify:inter-word; padding: 5px 10px 0px 10px;">
-    <p><strong>Collaboration Invitation:</strong> Dr. Zhou is open to collaborating with professors, researchers, and industry professionals who share similar research interests or have relevant projects. If you are interested in exploring opportunities for teamwork, please don't hesitate to reach out via <a href="dhzhou17@fudan.edu.cn">email</a> for potential collaborations.</p>
+    <p><strong>Collaboration Invitation:</strong> Dr. Zhou is open to collaborating with professors, researchers, and industry professionals who share similar research interests or have relevant projects. If you are interested in exploring opportunities for teamwork, please don't hesitate to reach out via <a href="dhzhou@sit.edu.cn">email</a> for potential collaborations.</p>
 </div>
