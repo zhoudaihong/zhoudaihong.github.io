@@ -4,7 +4,7 @@
 
 
 <div style="text-align:justify; text-justify:inter-word; margin:10px">
-    Dr. Zhou’s research focuses on <u>software data analysis and mining</u>, <u>program analysis</u>, and <u>software quality assurance</u>. His primary interest lies in applying intelligent technologies, such as large language models (LLMs) and knowledge graphs (KGs), to solve multi-dimensional data analysis challenges in software engineering, enhancing intelligent development and quality assurance.
+    Dr. Zhou’s research focuses on <u>software engineering</u>, <u>software quality</u>, and <u>software evolution</u>. His primary interest lies in applying intelligent technologies, such as large language models (LLMs) and knowledge graphs (KGs), to solve multi-dimensional data analysis challenges in software engineering, enhancing intelligent development and quality assurance.
 </div>
 
 
