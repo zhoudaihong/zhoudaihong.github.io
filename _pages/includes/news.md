@@ -1,4 +1,5 @@
 # 🔥 News
+- *2025.01*: 🎉 One paper titled "Effectively Modeling UI Transition Graphs for Android Apps via Reinforcement Learning" got accepted to <a href="https://conf.researchr.org/track/icpc-2025/icpc-2025-research">ICPC 2025</a>.
 - *2024.06*: 🎉 One paper titled "Enhancing Change Impact Prediction by Integrating Evolutionary Coupling with Software Change Relationships" got accepted to <a href="https://conf.researchr.org/track/esem-2024/esem-2024-technical-track">ESEM 2024</a>.
 - *2024.01*: 🎉 I received my Ph.D from Fudan University.
 - *2023.11*: One paper titled "Revealing Code Change Propagation Channels by Evolution History Mining" got accepted in
