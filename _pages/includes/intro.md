@@ -11,5 +11,5 @@
 
 <div style="border: 2px solid red; text-align:justify; text-justify:inter-word; padding: 5px 10px 0px 10px;">
     <p><strong>Collaboration Invitation:</strong> Dr. Zhou is open to collaborating with professors, researchers, and industry professionals who share similar research interests or have relevant projects.</p>
-    <p>I am also looking for self-motivated undergraduate/master students interested in AI, SE and Robot. Please drop me an <a href="dhzhou@sit.edu.cn">email</a> if you are interested in working with me!</p>
+    <p>I am also looking for self-motivated undergraduate/master students interested in Robot, AI, and SE. Please drop me an <a href="dhzhou@sit.edu.cn">email</a> if you are interested in working with me!</p>
 </div>

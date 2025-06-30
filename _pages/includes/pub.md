@@ -3,7 +3,7 @@
 
 ### Journal Papers
 
-  - <u>Daihong Zhou</u>, Yijian Wu, Xin Peng, Jiyue Zhang, Ziliang Li: [Uncovering Change Propagation Channels by Evolution History Mining](https://www.sciencedirect.com/science/article/abs/pii/S0164121223003072), Journal of Systems and Software (JSS 2024) (CCF B, SCI, Q2, IF: 3.7)
+  - <u>Daihong Zhou</u>, Yijian Wu, Xin Peng, Jiyue Zhang, Ziliang Li: [Uncovering Change Propagation Channels by Evolution History Mining](https://www.sciencedirect.com/science/article/abs/pii/S0164121223003072), Journal of Systems and Software (JSS 2024) (CCF B, SCI, Q2, IF: 4.1)
 
 ### Conference Papers
   - <u>Daihong Zhou</u>, Jiyue Zhang, Ping Yu, Wunan Guo: [Enhancing Change Impact Prediction by Integrating Evolutionary Coupling with Software Change Relationships](https://dl.acm.org/doi/10.1145/3674805.3686668), The 18th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM 2024) (CCF B, EI)
