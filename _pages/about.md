@@ -21,4 +21,4 @@ redirect_from:
 
 {% include_relative includes/services.md %}
 
-{% include_relative includes/teaching.md %}
+{% include_relative includes/team.md %}
