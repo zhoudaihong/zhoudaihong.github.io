@@ -11,6 +11,6 @@
 
 
 <div style="border: 2px solid red; text-align:justify; text-justify:inter-word; padding: 5px 10px 0px 10px;">
-    <p><strong>Join Our Team:</strong> I am looking for self-motivated undergraduate/master students interested in Robot, Artificial Intelligence, and Software Engineering. If interested in project collaboration, please <a href="dhzhou@sit.edu.cn">email</a> me directly.</p>
+    <p><strong>Join Our Team:</strong> I am looking for self-motivated master/undergraduate students interested in Robot, Artificial Intelligence, and Software Engineering. If interested in project collaboration, please <a href="dhzhou@sit.edu.cn">email</a> me directly.</p>
     <p><strong>Collaboration Invited:</strong> I also seek collaboration with professors, researchers, and industry partners whose research aligns with me or who have related projects.</p>
 </div>
