@@ -4,7 +4,7 @@
 
 
 <div style="text-align:justify; text-justify:inter-word; margin:10px">
-    My research team focuses on the field of <strong><u>Embodied Intelligence and Robotics (EIR)</u></strong>. Our work advances core capabilities such as <strong><u>Embodied Intelligence Systems</u></strong>, <strong><u>Embodied AI Datasets</u></strong>, <strong><u>Vision-Language-Action (VLA) Models</u></strong>, <strong><u>3D Reconstruction</u></strong>, <strong><u>Robot Simulation &amp; Evaluation </u></strong>, and <strong><u>Robot System Security</u></strong>. The goal is to build a solid foundation for autonomous robotic systems with significantly improved reliability and robustness.
+    Dr. Zhou leads the Embodied Intelligence Robotics Lab (EIR Lab). Our group focuses on <strong><u>Embodied Intelligence and Robotics (EIR)</u></strong>, with research covering <strong><u>Embodied Intelligence Systems</u></strong>, <strong><u>Embodied AI Datasets</u></strong>, <strong><u>Vision-Language-Action (VLA) Models</u></strong>, <strong><u>3D Reconstruction</u></strong>, <strong><u>Robot Simulation &amp;Evaluation</u></strong>, and <strong><u>Robot System Security</u></strong>. We aim to lay a solid foundation for more reliable and robust autonomous robotic systems.
 </div>
 
 
