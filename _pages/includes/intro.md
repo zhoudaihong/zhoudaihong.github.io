@@ -14,13 +14,13 @@
     </p>
     <ul style="list-style: none; padding-left: 0; margin: 0;">
         <li style="margin-bottom: 12px;">
-            ✓ <strong>Sim-Real Fusion-Driven Embodied Data Generation</strong>: 3D scene reconstruction, digital twin simulation, large-scale embodied data generation, domain randomization and Sim-to-Real transfer, etc.
+            ✓ <strong>Sim-Real Fusion-Driven Embodied Data Generation</strong>: embodied data generation, 3D scene reconstruction, digital twin simulation, domain randomization and Sim-to-Real transfer, etc.
         </li>
         <li style="margin-bottom: 12px;">
             ✓ <strong>Embodied Model Benchmarking for Cross-Embodiment Generalization</strong>: benchmark system construction, VLA model capability evaluation, cross-embodiment skill transfer, few-shot skill generalization, etc.
         </li>
         <li>
-            ✓ <strong>Robotic Software Security and Intelligent Software Engineering</strong>: robotic software vulnerability analysis, intelligent robotic software testing, AI-driven software development, robotic software engineering, etc.
+            ✓ <strong>Robotic System Security and Intelligent Software Engineering</strong>: intelligent robotic software testing, robotic system security vulnerability, AI-driven software development, robotic software engineering, etc.
         </li>
     </ul>
 </div>
